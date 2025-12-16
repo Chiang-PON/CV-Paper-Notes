@@ -9,7 +9,7 @@
 ---
 
 ## 1. TL;DR (一句話總結)
-> 這篇論文提出了 **Residual Learning (殘差學習)** 架構，透過「捷徑 (Shortcut Connection)」讓神經網路可以疊得非常深（從 19 層突破到 152 層），解決了深層網路難以訓練的問題。
+> 這篇論文提出了 **Residual Learning (殘差學習)** 架構，透過「捷徑 (Shortcut Connection)」讓神經網路可以疊得非常深，且複雜度並沒增加太多，解決了深層網路難以訓練的問題。
 
 ## 2. Problem & Motivation (問題與動機)
 * **過去的方法有什麼缺點？**
@@ -29,6 +29,8 @@
 ## 4. Experiments & Results (實驗結果)
 * **Dataset**: ImageNet, CIFAR-10
 * **Metrics**: Top-1 Error
-* **結果**: ResNet-152 在 ImageNet 上達到了 3.57% 的錯誤率，超越了人類辨識能力，並且橫掃了當年的 ILSVRC 冠軍。
+* **結果**: 
+* ResNet-152 在 ImageNet 上達到了 3.57% 的錯誤率，當年的 ILSVRC 冠軍。
+* COCO 2015 ImageNet 檢測、ImageNet 定位、COCO 檢測和 COCO 分割任務的第一名 。
 
 ## 5
