@@ -3,7 +3,7 @@
 - **論文連結**: [arXiv:1512.03385](https://arxiv.org/abs/1512.03385)
 - **程式碼連結**: [PyTorch Official](https://pytorch.org/hub/pytorch_vision_resnet/)
 - **發表會議/年份**: CVPR 2016 (Best Paper Award)
-- **作者/機構**: Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun | Microsoft Research Asia-
+- **作者/機構**: Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun | Microsoft Research Asia
 - **關鍵字**: #Deep-Learning #CNN #Architecture #Backbone
 
 ---
